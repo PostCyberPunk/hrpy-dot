@@ -37,6 +37,7 @@ declare -A menu_options=(
 	["ff firefox"]="firefox"
 	["fz FuzzyFind"]="kitty fzf -e"
 	["v2 v2raya"]="firefox http://localhost:2017/"
+	["sp Spotify"]="spotify"
 )
 
 # Function for displaying notifications
