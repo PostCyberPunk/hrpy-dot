@@ -39,6 +39,7 @@ declare -A menu_options=(
 	["v2 v2raya"]="firefox http://localhost:2017/"
 	["sp Spotify"]="spotify"
 	["ml MonitorLayout"]="$scriptsDir/MonitorLayout.sh"
+	["gpu GPU Switcher"]="$scriptsDir/GPU.sh"
 )
 
 # Function for displaying notifications
